@@ -1,4 +1,4 @@
-# meus-estudos
+# Meus estudos
 Estudos de lógica de Programação com Python.
 
 # Objetivo
